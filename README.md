@@ -1,4 +1,4 @@
-# Book Search Engine 
+# Search for the perfect book 
 
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
